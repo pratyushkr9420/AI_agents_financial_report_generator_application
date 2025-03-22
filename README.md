@@ -22,6 +22,12 @@ It builds a multi-agent collaborative workflow for analyzing stock performance, 
 
 ---
 
+## Deployed application: https://pratyushkr9420-ai-agents-financial-report--streamlit-app-mbsbgp.streamlit.app
+
+---
+
+## To set up the application locally
+
 ## 🛠️ Installation
 
 1. **Clone the repository**:
