@@ -115,3 +115,11 @@ Built using:
 - [AutoGen](https://github.com/microsoft/autogen)
 - [Streamlit](https://streamlit.io/)
 - [Python-dotenv](https://github.com/theskumar/python-dotenv)
+
+---
+##  Sample financial report generated using the application
+
+![Screenshot](Application_screenshot1.png)
+![Screenshot](Application_screenshot2.png)
+![Screenshot](Application_screenshot3.png)
+![Screenshot](Application_screenshot4.png)
